@@ -16,7 +16,7 @@
 
 1. Клонируйте проект с GitHub:
 ```bash
-git clone [https://github.com/ВашПроект.git](https://github.com/KaterinaGalisheva/Diplom)
+git clone https://github.com/KaterinaGalisheva/Diplom
 
  2. Перейдите в папку проекта:
 
